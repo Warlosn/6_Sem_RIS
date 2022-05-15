@@ -1,0 +1,10 @@
+# ninja log v5
+39	640	6723516163102158	build.ninja	21569bff56f12ed9
+16	382	6687782478354330	CMakeFiles/Lab_2.dir/SectionControlUnit.cpp.obj	1567562b938201d3
+3	920	6687790616593766	CMakeFiles/Lab_2.dir/main.cpp.obj	74109d1b3688678c
+920	1280	6687790620139094	Lab_2.exe	ec010044fe0d0078
+14	907	6687782483604165	CMakeFiles/Lab_2.dir/Error.cpp.obj	7fc76a1e20e864c6
+41	2791	6723516212962816	CMakeFiles/Lab_2.dir/SectionControlUnit.cpp.obj	73f2532ee39d7ab3
+36	8022	6723516265353525	CMakeFiles/Lab_2.dir/Error.cpp.obj	5b383cd3fa103a3f
+4	8260	6723516267655998	CMakeFiles/Lab_2.dir/main.cpp.obj	438edfbeaf7f750e
+8260	9359	6723516278654284	Lab_2.exe	c79f020b2075a392

@@ -1,0 +1,11 @@
+﻿  Error.cpp
+D:\GitHub\6_Sem_RIS\labs\lab2\Lav_2_client _api\Error.cpp(66,12): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  main.cpp
+D:\GitHub\6_Sem_RIS\labs\lab2\Lav_2_client _api\main.cpp(37,28): error C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\GitHub\6_Sem_RIS\labs\lab2\Lav_2_client _api\main.cpp(49,10): warning C4101: obuf: неиспользованная локальная переменная
+D:\GitHub\6_Sem_RIS\labs\lab2\Lav_2_client _api\main.cpp(51,10): warning C4101: buffer: неиспользованная локальная переменная
+  SectionControlUnit.cpp
+D:\GitHub\6_Sem_RIS\labs\lab2\Lav_2_client _api\SectionControlUnit.cpp(13,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\GitHub\6_Sem_RIS\labs\lab2\Lav_2_client _api\SectionControlUnit.cpp(14,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Time.cpp
+  Создание кода...

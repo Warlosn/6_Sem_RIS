@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\GitHub\6_Sem_RIS\labs\lab2\RIS_2\RIS2_client\main.cpp(51,10): warning C4101: obuf: неиспользованная локальная переменная
+D:\GitHub\6_Sem_RIS\labs\lab2\RIS_2\RIS2_client\main.cpp(53,10): warning C4101: buffer: неиспользованная локальная переменная
+  LINK : отсутствует база данных D:\GitHub\6_Sem_RIS\labs\lab2\RIS_2\RIS_2\Debug\RIS2_client.pdb программы; выполняется полная компоновка
+  RIS2_client.vcxproj -> D:\GitHub\6_Sem_RIS\labs\lab2\RIS_2\RIS_2\Debug\RIS2_client.exe

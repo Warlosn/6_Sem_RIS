@@ -1,0 +1,44 @@
+{
+    // Используйте IntelliSense, чтобы узнать о возможных атрибутах.
+    // Наведите указатель мыши, чтобы просмотреть описания существующих атрибутов.
+    // Для получения дополнительной информации посетите: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "client 1",
+            "program": "${workspaceFolder}/client1/client1.js",
+            "cwd": "${workspaceFolder}/client1",
+            "console": "externalTerminal",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "node"
+        },
+
+        {
+            "name": "client 2",
+            "program": "${workspaceFolder}/client2/client2.js",
+            "cwd": "${workspaceFolder}/client2",
+            "console": "externalTerminal",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "node"
+        },
+
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "central server",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            
+            "program": "${workspaceFolder}\\server\\serv.js",
+            "console": "externalTerminal",
+            "cwd": "${workspaceFolder}/server"
+        }
+    ]
+}

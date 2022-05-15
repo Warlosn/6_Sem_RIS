@@ -1,0 +1,3 @@
+D:/GitHub/RIS/Lav_2_client _api/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/GitHub/RIS/Lav_2_client _api/cmake-build-debug/CMakeFiles/Lav_2_client.dir
+D:/GitHub/RIS/Lav_2_client _api/cmake-build-debug/CMakeFiles/edit_cache.dir

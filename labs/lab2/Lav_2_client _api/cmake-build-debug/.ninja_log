@@ -1,0 +1,8 @@
+# ninja log v5
+15	333	6687796520057208	CMakeFiles/Lav_2_client.dir/SectionControlUnit.cpp.obj	4d140340c94d5c2b
+18	760	6687796524328483	CMakeFiles/Lav_2_client.dir/Error.cpp.obj	f3c220561d778aa1
+0	871	6687796525440764	CMakeFiles/Lav_2_client.dir/main.cpp.obj	430762c47ffc5f7a
+2	272	6687796781107553	CMakeFiles/Lav_2_client.dir/Time.cpp.obj	1159376829457190
+272	635	6687796784698225	Lav_2_client.exe	e75861e9df6154e0
+2	795	6687797003841482	CMakeFiles/Lav_2_client.dir/main.cpp.obj	430762c47ffc5f7a
+795	1164	6687797007499288	Lav_2_client.exe	e75861e9df6154e0

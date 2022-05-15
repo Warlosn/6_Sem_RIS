@@ -1,0 +1,70 @@
+{
+    // Используйте IntelliSense, чтобы узнать о возможных атрибутах.
+    // Наведите указатель мыши, чтобы просмотреть описания существующих атрибутов.
+    // Для получения дополнительной информации посетите: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+
+        {
+            "name": "dispatcher",
+            "program": "${workspaceFolder}/dispatcher/dispatcher.js",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "cwd": "${workspaceFolder}/dispatcher",
+            "console": "externalTerminal",
+            "type": "node"
+        },
+
+
+        
+        {
+            "name": "time-service-1",
+            "program": "${workspaceFolder}/time-service-1/server_1.js",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "cwd": "${workspaceFolder}/time-service-1",
+            "console": "externalTerminal",
+            "type": "node"
+        },
+
+        {
+            "name": "time-service-2",
+            "program": "${workspaceFolder}/time-service-2/server_2.js",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "cwd": "${workspaceFolder}/time-service-2",
+            "console": "externalTerminal",
+            "type": "node"
+        },
+        
+        {
+            "name": "time-service-3",
+            "program": "${workspaceFolder}/time-service-3/server_3.js",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "cwd": "${workspaceFolder}/time-service-3",
+            "console": "externalTerminal",
+            "type": "node"
+        },
+
+        {
+            "name": "Client",
+            "program": "${workspaceFolder}/client.js",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "cwd": "${workspaceFolder}",
+            "console": "externalTerminal",
+            "type": "node"
+        }
+    ]
+}

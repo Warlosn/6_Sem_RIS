@@ -1,0 +1,3 @@
+C:\Users\Skvortsoff\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.7172.20\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\Lav_2_client.dir/objects.a
+C:\Users\Skvortsoff\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.7172.20\bin\mingw\bin\ar.exe qc CMakeFiles\Lav_2_client.dir/objects.a @CMakeFiles\Lav_2_client.dir\objects1.rsp
+C:\Users\Skvortsoff\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.7172.20\bin\mingw\bin\g++.exe  -static-libstdc++ -static-libgcc -static -g -Wl,--whole-archive CMakeFiles\Lav_2_client.dir/objects.a -Wl,--no-whole-archive -o Lav_2_client.exe -Wl,--out-implib,libLav_2_client.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Lav_2_client.dir\linklibs.rsp
